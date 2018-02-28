@@ -36,5 +36,5 @@ Code:
             currentPop += numBirths + numImmigrants - numDeaths;
             System.out.println("Year " + i + " = " + (int)currentPop);
             }
-		    }
-    }
+	 }
+      }
